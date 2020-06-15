@@ -1,22 +1,23 @@
 {
-	"dir" : "ltr",
-	"lang" : "en",
-	"name" : "Hanuman Chalisa",
-	"scope" : "/hanuman-chalisa/",
-	"display" : "browser",
-	"start_url" : "https://perryizgr8.github.io/hanuman-chalisa/",
-	"short_name" : "Hanuman Chalisa",
-	"theme_color" : "transparent",
-	"description" : "",
-	"orientation" : "any",
-	"background_color" : "transparent",
-	"related_applications" : [],
-	"prefer_related_applications" : false,
-	"icons" : [
-		{
-			"src": "https://perryizgr8.github.io/hanuman-chalisa/favicon.png",
-			"sizes": "512x512"
-		}],
-	"url" : "https://perryizgr8.github.io/hanuman-chalisa/",
-	"generated" : "true"
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Hanuman Chalisa",
+    "scope": "/hanuman-chalisa/",
+    "display": "browser",
+    "start_url": "https://perryizgr8.github.io/hanuman-chalisa/",
+    "short_name": "Hanuman Chalisa",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://perryizgr8.github.io/hanuman-chalisa/favicon.png",
+            "sizes": "512x512"
+        }
+    ],
+    "url": "https://perryizgr8.github.io/hanuman-chalisa/",
+    "generated": "true"
 }
