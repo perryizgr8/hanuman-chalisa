@@ -39,5 +39,5 @@ a:any-link {
 	text-decoration: none;
 }
 #pwa-install {
-	color: #b23000;
+	--install-button-color: #b23000;
 }
