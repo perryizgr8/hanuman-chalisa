@@ -30,9 +30,9 @@ darkModeMediaQuery.addListener((e) => {
 });
 
 window.onload = function () {
-    if (document.querySelector('#pwa-install').getInstalledStatus() == false) {
-        document.querySelector('#pwa-install').openPrompt();
-    }
+    //if (document.querySelector('#pwa-install').getInstalledStatus() == false) {
+    //    document.querySelector('#pwa-install').openPrompt();
+    //}
     if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
         currentTheme = 'light';
     } else if (darkModeMediaQuery.matches) {
