@@ -7,6 +7,7 @@
         const el = document.createElement('pwa-update');
         document.body.appendChild(el);
     </script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwainstall"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="index.css" title="style">
     <script src="index.js"></script>
@@ -18,6 +19,7 @@
 </head>
 
 <body>
+    <pwa-install showopen="true"></pwa-install>
     <h1 id='heading'>Hanuman Chalisa</h1>
     <a href="#!" id='button-icon' class="float" onclick="toggleTheme()">
         <i class="material-icons my-float">wb_sunny</i>
